@@ -1,6 +1,6 @@
-# 🌸 Ferns & Petals Sales Analysis (Excel Project)
+# E-Commerce Sales Analysis (Excel Project)
 
-This project analyzes sales data from **Ferns & Petals (FNP)** to understand customer behavior, product performance, and festival-driven demand patterns.  
+This project analyzes sales data from **Ferns & Petals (FNP) - E-Commerce Data** to understand customer behavior, product performance, and festival-driven demand patterns.  
 The goal is to build a **compact and interactive Excel dashboard** using Power Query, Power Pivot, and DAX.
 
 ---
@@ -91,9 +91,3 @@ Includes:
 - Metro cities should be prioritized for marketing and inventory.  
 - Customer spending rises during occasions, showing strong seasonal buying patterns.
 
----
-
-## 👤 Author
-**Sai Ganesh**  
-📍 Coimbatore, India  
-📧 saiganesh97869@gmail.com  
